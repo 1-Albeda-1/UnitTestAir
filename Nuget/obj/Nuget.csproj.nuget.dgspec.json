@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\Nuget\\Nuget.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\Nuget\\Nuget.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\Nuget\\Nuget.csproj",
+        "projectName": "Nuget",
+        "projectPath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\Nuget\\Nuget.csproj",
+        "packagesPath": "C:\\Users\\HUAWEi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\Nuget\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HUAWEi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\UserStoryAir\\UserStoryAir.csproj": {
+                "projectPath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\UserStoryAir\\UserStoryAir.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\UserStoryAir\\UserStoryAir.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\UserStoryAir\\UserStoryAir.csproj",
+        "projectName": "UserStoryAir",
+        "projectPath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\UnitTest\\UserStoryAir\\UserStoryAir.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

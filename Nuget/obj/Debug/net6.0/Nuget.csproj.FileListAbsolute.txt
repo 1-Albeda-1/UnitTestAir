@@ -1,0 +1,16 @@
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\bin\Debug\net6.0\Nuget.deps.json
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\bin\Debug\net6.0\Nuget.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\bin\Debug\net6.0\ref\Nuget.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\bin\Debug\net6.0\Nuget.pdb
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\bin\Debug\net6.0\UserStoryAir.exe
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\bin\Debug\net6.0\UserStoryAir.pdb
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\bin\Debug\net6.0\UserStoryAir.exe.config
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.csproj.AssemblyReference.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.AssemblyInfoInputs.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.AssemblyInfo.cs
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.csproj.CopyComplete
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\ref\Nuget.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\UnitTest\Nuget\obj\Debug\net6.0\Nuget.pdb

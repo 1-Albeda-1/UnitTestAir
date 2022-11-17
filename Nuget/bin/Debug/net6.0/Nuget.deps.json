@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nuget/1.0.0": {
+        "dependencies": {
+          "UserStoryAir": "1.0.0"
+        },
+        "runtime": {
+          "Nuget.dll": {}
+        }
+      },
+      "UserStoryAir/1.0.0": {
+        "runtime": {
+          "UserStoryAir.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nuget/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserStoryAir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
