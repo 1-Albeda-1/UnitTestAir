@@ -32,7 +32,7 @@ namespace Test
             public void ChangeButton()
             {
             NugetLogic RS = new();
-            var result = RS.GetList();
+           
             Reys mytest = new()
             {
                 NumberReys = 253,
@@ -59,6 +59,9 @@ namespace Test
 
             };
             RS.Change(mytest, mytest2);
+
+            var result = RS.GetList();
+
                 Assert.Equal(mytest2, result[0]);
             }
 
