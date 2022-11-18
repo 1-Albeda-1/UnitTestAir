@@ -11,7 +11,6 @@ namespace Test
             public void AddButton()
             {
                 NugetLogic RS = new();
-                var result = RS.GetList();
                 Reys mytest = new()
                 {
                     NumberReys = 253,
@@ -25,6 +24,7 @@ namespace Test
 
                 };
                 RS.Add(mytest);
+                var result = RS.GetList();
                 Assert.Equal(mytest, result[0]);
             }
 
@@ -66,7 +66,6 @@ namespace Test
             public void DeleteButton()
             {
             NugetLogic RS = new();
-            var result = RS.GetList();
             Reys mytest = new()
             {
                 NumberReys = 253,
@@ -81,6 +80,7 @@ namespace Test
             };
             RS.Add(mytest);
             RS.Remove(mytest);
+            var result = RS.GetList();
             Assert.Empty(result);
             }
         
